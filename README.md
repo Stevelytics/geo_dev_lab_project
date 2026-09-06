@@ -1,6 +1,6 @@
 # Urban Growth in Ibeju-Lekki, Lagos State
 
-One-line status: 🟡 Week 1 — question chosen, hardest dataset being verified.
+Week 1 — question chosen, hardest dataset being verified.
 
 ---
 
@@ -28,11 +28,10 @@ Ibeju-Lekki is growing fast and largely informally around major infrastructure (
 | 3 | Population trend, gridded | WorldPop | https://hub.worldpop.org | GeoTIFF | 2026-09-07 |
 | 4 | Satellite imagery, 2015 vs recent | Sentinel-2, via Copernicus Data Space | https://dataspace.copernicus.eu | Cloud-optimized GeoTIFF | 2026-09-07 |
 
-*If you can't fill in a row, that's the signal to change the question — not to leave the row blank.*
 
 ## 5. What I Would Build
 
-A before/after map of built-up area in Ibeju-Lekki (2015 vs today), updated quarterly, that flags which newly-built-up areas still have no paved road within reach — something an LGA planning officer could actually open and act on, not just a static map.
+A before/after map of built-up area in Ibeju-Lekki (2015 vs today), updated quarterly, that flags which newly-built-up areas still have no paved road within reach something an LGA planning officer could actually open and act on, not just a static map.
 
 ---
 
@@ -41,13 +40,6 @@ A before/after map of built-up area in Ibeju-Lekki (2015 vs today), updated quar
 **Place:** Ibeju-Lekki Local Government Area, Lagos State, Nigeria
 **Why this place:** Rapid, well-documented growth since 2015 around named infrastructure projects, giving an unusual amount of public record to check the data against — and a single LGA is small enough to actually finish in a year.
 
-## Progress Log
-
-Keep this short. One line per milestone — it's what makes your commit history and this README readable a year from now.
-
-| Date | Milestone | Commit |
-|------|-----------|--------|
-| YYYY-MM-DD | Brief written, hardest dataset downloaded | `<short hash>` |
 
 ## License / Attribution
 
