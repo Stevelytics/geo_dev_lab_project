@@ -1,0 +1,24 @@
+# Raw/large geodata — keep these out of git, link to them in README instead
+*.pbf
+*.osm
+*.tif
+*.tiff
+*.img
+*.gdb/
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.zip
+data/raw/
+
+# GIS software cruft
+*.qgz~
+*.qgs~
+.qgis*/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
